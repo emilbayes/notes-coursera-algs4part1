@@ -13,7 +13,7 @@ Applications
 
 * Pixels
 * Computers in network
-* Friends in social network
+* People in social network
 * Transistors in chip
 * Elements in mathematical set
 * Variables in AST
