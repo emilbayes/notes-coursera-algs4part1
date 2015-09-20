@@ -60,4 +60,4 @@ Analysis
 
 <small>†: Includes the cost of finding roots</small>
 
-**Deficiencies**: Trees can get tall, and find is now expensive.
+**Deficiencies**: Trees can get tall, and find/`connected` is now expensive.
