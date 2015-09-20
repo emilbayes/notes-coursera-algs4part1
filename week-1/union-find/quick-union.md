@@ -13,7 +13,7 @@ The following components: `{0 5 6} {1 2 7 8 9} {3 4}`
 int[] id = {0 1 1 3 3 0 5 2 7 1} // size N
 ```
 
-Root of `i` is `id[id[id[...id[i]...]]]` until `i == id[i]`. This makes `union` $$\mathcal{O}(N)$$ and `connected` $$\mathcal{O}(N)$$
+Root of `i` is `id[id[id[...id[i]...]]]` until `i == id[i]`. This makes `union` and `connected` $$\mathcal{O}(N)$$
 
 Implementation
 --------------
