@@ -1,7 +1,7 @@
 Quick Find
 ==========
 
-Eager algorithm - will try to complete work as fast as possible, hence the $$\mathcal{O}(N)$$ run-time of he `union` operation.
+Eager algorithm - will try to complete work as fast as possible, hence the $$\mathcal{O}(N)$$ run-time of the `union` operation.
 
 Data structure
 --------------
