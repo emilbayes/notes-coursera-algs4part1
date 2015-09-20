@@ -66,7 +66,7 @@ private int root(int i)
 }
 ```
 
-This will keep the tree almost completely flat as nodes will be updated on calls to `union` and `connected` calls.
+This will keep the tree almost completely flat as nodes will be updated on calls to `union` and `connected`.
 
 Analysis - Combined
 -------------------
