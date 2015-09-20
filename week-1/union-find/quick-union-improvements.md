@@ -14,7 +14,7 @@ Keep extra `int[] sz` array that maintains the size of the subtree for `ìd[i]` 
 
 #### Find
 
-Identical to [quick-union](quick-union.md#implementation)
+Identical to [Quick-Union](quick-union.md#implementation)
 
 #### Union
 
