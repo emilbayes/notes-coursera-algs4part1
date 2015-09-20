@@ -4,7 +4,7 @@ Dynamic Connectivity
 Set of $$N$$ objects:
 
 * **Union command** connect two objects
-* **Find/connect query** is there a path connecting the two objects
+* **Find/connected query** is there a path connecting the two objects?
 
 This is the goal of the dynamic connectivity problem, `union!(Node, Node)` and `connected?(Node, Node)`
 
