@@ -1,0 +1,8 @@
+{
+  "title": "Notes ­-­ Coursera - Algorithms I",
+  "description": "Notes for the Coursera course Algorithms I (Fall 2015)",
+  "plugins": [
+    "katex",
+    "include-codeblock"
+  ]
+}
