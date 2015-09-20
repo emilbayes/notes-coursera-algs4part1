@@ -6,7 +6,7 @@ Eager algorithm - will try to complete work as fast as possible, hence the $$\ma
 Data structure
 --------------
 
-The following components: `{0 5 6} {1 2 7 8 9} {3 4}`
+The following components, `{0 5 6} {1 2 7 8 9} {3 4}`, would result in the following `int[]` array:
 
 ```java
 // Indexes  0 1 2 3 4 5 6 7 8 9
