@@ -29,7 +29,7 @@ public boolean connected(int p, int q)
 
 ### Union
 
-To merge two components containing $$p$$ and $$q$$ we have to recursively change all entries with `id[p]` to `id[q]` which might be $$N - 1$$ entries.
+To merge two components containing $$p$$ and $$q$$ we have to change all entries with `id[p]` to `id[q]` which might be $$N - 1$$ entries.
 
 Implementation
 --------------
